@@ -1,0 +1,17 @@
+# Site settings
+title: Penpingu's Blog
+email: penpingu5@gmail.com
+description: "Welcome to Penpingu's Blog!."
+baseurl: ""
+url: "http://penpingu.github.io"
+github_username:  penpingu
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
