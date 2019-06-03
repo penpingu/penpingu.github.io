@@ -22,6 +22,14 @@ a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
+
+article img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width:100%;
+}
+
 /* Utility */
 
 .wrap:before,
