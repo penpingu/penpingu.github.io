@@ -30,6 +30,15 @@ article img {
   max-width:100%;
 }
 
+/* for image caption */
+article img + em {
+    font-style: normal;
+    display: inherit;
+    margin-top: 0.5em;
+    text-align: center;
+    color: #111122;
+}
+
 /* Utility */
 
 .wrap:before,
